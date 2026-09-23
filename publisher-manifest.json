@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "dd3931ef4f602732c1f9a8a2",
+  "owner": "yrpbpx",
+  "repo": "page-40dc25f25a0051ec9f09442d",
+  "title": "智灵云(ZLINCLOUD)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "40dc25f25a0051ec9f09442d",
+      "a": "智灵云(ZLINCLOUD)",
+      "b": "2027最新官网",
+      "entity": "智灵云(ZLINCLOUD)",
+      "brand": "智灵云(ZLINCLOUD)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c69d9a44cee45c889a15b27fb836bf7e453b2c6c254da17784129b221418adbc",
+      "content": {
+        "primary_entity": "智灵云(ZLINCLOUD)",
+        "keyword1": "智灵云(ZLINCLOUD)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，依客户端文档配置订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与月流量挑选，从轻量到团队协作均可覆盖。",
+          "AI_CLOSING_TITLE": "从基础版起步，按需升级",
+          "AI_DESCRIPTION": "，为跨区域访问提供按月订阅式加速，适合多设备与流媒体场景，按年付更省。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期展开。",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURE_TEXT_1": "轻量使用选基础版，100GB 流量与 3 台设备，月付 ¥15 或年付 ¥150，可先试用再升级。",
+          "AI_FEATURE_TEXT_2": "常看流媒体或玩游戏选旗舰版，300GB 流量、5 台设备，年付 ¥350，侧重 IPLC 专线体验。",
+          "AI_FEATURE_TEXT_3": "团队协作选团队版，1000GB 流量、20 台设备与 VIP 专属节点，年付 ¥850，支持定制路由。",
+          "AI_FEATURE_TITLE_1": "按需选版本",
+          "AI_FEATURE_TITLE_2": "年付更省心",
+          "AI_FEATURE_TITLE_3": "设备同步升级",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "订阅三步",
+          "AI_HERO_INTRO": "智灵云(ZLINCLOUD)提供按月订阅式加速，基础版起 ¥15/月，覆盖流媒体与游戏场景，按年付价格更低，适合个人与团队按需选择。",
+          "AI_HERO_SUBTITLE": "智灵云加速订阅，按需选版本",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，20 台设备",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版对比月流量、设备数量与年付价格。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选择合适版本。",
+          "AI_STEP_TEXT_2": "查看所选版本对客户端与操作系统的适配要求，确认设备兼容。",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅配置，按文档说明完成连接并开始使用。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "智灵云加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合个人手机加电脑的日常使用；如需更多设备，可选旗舰版 5 台或团队版 20 台。",
+          "AI_FAQ_ANSWER_2": "套餐按月计费，也可按年付。基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，年付更划算。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合对流媒体画质和游戏延迟有要求的用户。",
+          "AI_FAQ_ANSWER_4": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览选基础版，追剧或游戏选旗舰版，多设备团队选团队版。",
+          "AI_FAQ_ANSWER_5": "在智灵云客户端管理页面可查看当月流量使用情况，超出套餐流量后会限速或按规则处理，建议按需升级套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "套餐如何计费和续费？",
+          "AI_FAQ_QUESTION_3": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_4": "不同套餐的每月流量分别是多少？",
+          "AI_FAQ_QUESTION_5": "如何查看流量使用情况？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kejixiongjc.com",
+    "host": "kejixiongjc.com"
+  },
+  "file_hashes": {
+    "index.html": "4210e6d887dcf4f7b2a8217fa3030413a537b40fbb49a6558498314e2dedd058",
+    "sitemap.xml": "286aacd8f7152832ac3e10068f39e99d722fc4ece91eb1d3699d6005f142593f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "212b588fb54c52e3bc8fc6c3a9b53c1e9353b1c080802576008720536892fd96",
+    "robots.txt": "9853de47d5e3ff6902d992167aa67ef4c6008a1740c2f9204d06bd16c27ee6f7",
+    "4d89e9bef04c0282e2b9ce88f0a68239.txt": "423cc5278e894ed33028ede25ad7d9a23a4045ab3d377eb99a38960d71d5a2a9"
+  },
+  "revision": "b595bc14e50f2e8f01d24282ef4f49f7dc3dc54c2731574cf18b76c2b42ccc94"
+}
